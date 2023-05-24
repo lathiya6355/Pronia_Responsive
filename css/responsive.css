@@ -1,0 +1,122 @@
+@media screen and (max-width: 1399px) {
+  #Testimonail.owl-carousel .owl-stage-outer {
+    height: 420px !important;
+  }
+  .space {
+    margin-top: -140px !important;
+  }
+  .main_mega {
+    left: -100px !important;
+  }
+}
+
+@media screen and (max-width: 1199px) {
+  .banner h1 {
+    font-size: 70px;
+    line-height: 1.4;
+  }
+  #banner.owl-theme .owl-nav {
+    left: 0;
+    right: 0;
+    margin-top: 11px;
+  }
+  .banner p {
+    font-size: 18px;
+  }
+  .image_content p {
+    font-size: 25px;
+    margin: 0 0 20px !important;
+  }
+  .image_content a {
+    font-size: 13px;
+    padding: 6px 30px;
+  }
+  .title_p {
+    padding: 0 9%;
+    margin: 0 0 55px !important;
+  }
+  .main_mega {
+    left: -200px !important;
+  }
+  .popular_tags li {
+    margin-right: 0 !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .spacer {
+    padding-top: 60px;
+  }
+  .hover_img {
+    position: absolute;
+    top: 0;
+    left: 0%;
+    opacity: 0;
+    visibility: hidden;
+    transition: 0.3s;
+  }
+  .lg_menu {
+    padding: 5px 12px !important;
+  }
+  .image_content p {
+    font-size: 25px;
+    margin: 0 0 10px !important;
+  }
+  .image_content a {
+    font-size: 13px;
+    padding: 4px 25px;
+  }
+  .position_left {
+    top: 10%;
+    left: 30px;
+  }
+  .title_p {
+    padding: 0;
+    margin: 0 0 55px !important;
+  }
+  .logo_slider_image {
+    padding: 30px;
+  }
+  .title::after,
+  .title::before {
+    display: none;
+  }
+  .nav-link {
+    margin-right: 4px;
+  }
+  .lg_menu {
+    display: block;
+    z-index: 99999;
+  }
+
+  .shop_found_li {
+    margin-right: 10px;
+  }
+}
+@media screen and (max-width: 575px) {
+  .image_content span {
+    display: block;
+    margin: 0 0 2px !important;
+    text-transform: capitalize;
+  }
+  .image_content p {
+    text-transform: capitalize;
+    font-size: 25px;
+    margin: 0 0 5px !important;
+  }
+  .client_main {
+    margin-right: 0 !important;
+  }
+  .title {
+    padding: 0 0 !important;
+  }
+  .social_icon li a {
+    font-size: 18px !important;
+  }
+  .say_image {
+    padding: 75px 15px 0 !important;
+  }
+  .blog_item{
+    margin: 0; 
+  }
+}
